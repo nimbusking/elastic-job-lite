@@ -50,6 +50,7 @@ import java.util.stream.Collectors;
 
 /**
  * Job scheduler.
+ * TAG：Job核心初始化类
  */
 public final class JobScheduler {
     
